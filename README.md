@@ -9,7 +9,6 @@ Navigate into chat folder
 cargo run
 ```
 
-
 Do `/help` for help
 
 please only leave and exit program with `/leave`
